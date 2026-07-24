@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://albanyrestorationco.com/sitemap.xml
